@@ -42,7 +42,7 @@ right = \relative c'' {
   \chorus_r
   \noBreak
   \ending_r
-  \bar "||"
+  \bar "|."
 }
 
 verse_a_l = {
@@ -82,7 +82,7 @@ left = \relative c' {
   \chorus_l
   \noBreak
   \ending_l
-  \bar "||"
+  \bar "|."
 }
 
 \score {
@@ -101,10 +101,12 @@ left = \relative c' {
     \tempo 4=120
   }
 }
+
 \header {
   title = "Safe & Sound"
   tagline = ""
 }
+
 \paper {
   #(set-paper-size "a4")
   markup-system-spacing.basic-distance = #10
