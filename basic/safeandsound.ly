@@ -63,7 +63,7 @@ chorus_l = {
 }
 
 verse_c_l = {
-  <f_2 bes,_5>1 <f bes,> <g c,> <g c,> \break
+  <f_1 bes,_5>1 <f bes,> <g c,> <g c,> \break
   <a d,>1 <a d,> <g c,> <g c,> \break
   <f_1 bes,_5>1 <f bes,> <g_1 c,_5> <g c,> \break
   <a_1 d,_5>1 <a d,> <g_1 c,_5>~1 \break
