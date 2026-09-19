@@ -13,6 +13,9 @@
   % Add space for instrument names
   indent = 20\mm
   page-count = 1
+  % line vertial distance
+  system-system-spacing.basic-distance = #20
+  markup-system-spacing.basic-distance = #20
 }
 
 global = {
